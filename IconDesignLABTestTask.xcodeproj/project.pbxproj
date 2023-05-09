@@ -11,6 +11,7 @@
 		1DB3B6522A0A34FD0003305D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DB3B6512A0A34FD0003305D /* ViewController.swift */; };
 		1DB3B6542A0A34FF0003305D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DB3B6532A0A34FF0003305D /* Assets.xcassets */; };
 		1DB3B6572A0A34FF0003305D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DB3B6552A0A34FF0003305D /* Main.storyboard */; };
+		1DB3B65F2A0A6F450003305D /* NSImage+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DB3B65E2A0A6F450003305D /* NSImage+Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		1DB3B6532A0A34FF0003305D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1DB3B6562A0A34FF0003305D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1DB3B6582A0A34FF0003305D /* IconDesignLABTestTask.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = IconDesignLABTestTask.entitlements; sourceTree = "<group>"; };
+		1DB3B65E2A0A6F450003305D /* NSImage+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NSImage+Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				1DB3B64F2A0A34FD0003305D /* AppDelegate.swift */,
 				1DB3B6512A0A34FD0003305D /* ViewController.swift */,
+				1DB3B65E2A0A6F450003305D /* NSImage+Extension.swift */,
 				1DB3B6532A0A34FF0003305D /* Assets.xcassets */,
 				1DB3B6552A0A34FF0003305D /* Main.storyboard */,
 				1DB3B6582A0A34FF0003305D /* IconDesignLABTestTask.entitlements */,
@@ -133,6 +136,7 @@
 			files = (
 				1DB3B6522A0A34FD0003305D /* ViewController.swift in Sources */,
 				1DB3B6502A0A34FD0003305D /* AppDelegate.swift in Sources */,
+				1DB3B65F2A0A6F450003305D /* NSImage+Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
